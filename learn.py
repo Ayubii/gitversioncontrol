@@ -3,4 +3,5 @@ raw_y = input("Masukkan angka:")
 x = int(raw_x)
 y = int(raw_y)
 calculate = x*y
-print(calculate)
+calculate1 = x/y
+print("perkalian x dan y adalah:",calculate,"dan pembagian dari x dan y adalah:",calculate1)
